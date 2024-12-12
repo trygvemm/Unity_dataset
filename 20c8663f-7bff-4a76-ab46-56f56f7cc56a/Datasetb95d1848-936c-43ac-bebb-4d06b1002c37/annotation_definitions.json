@@ -1,0 +1,224 @@
+{
+  "version": "0.0.1",
+  "annotation_definitions": [
+    {
+      "id": "bounding box",
+      "name": "bounding box",
+      "description": "Produces 2D bounding box annotations for all visible objects that bear a label defined in this labeler's associated label configuration.",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "racer"
+        },
+        {
+          "label_id": 2,
+          "label_name": "Motorboat"
+        },
+        {
+          "label_id": 3,
+          "label_name": "jetski"
+        },
+        {
+          "label_id": 4,
+          "label_name": "Fisherboat"
+        },
+        {
+          "label_id": 5,
+          "label_name": "Red Bouy"
+        },
+        {
+          "label_id": 6,
+          "label_name": "Sailboat"
+        },
+        {
+          "label_id": 7,
+          "label_name": "windsurfer"
+        },
+        {
+          "label_id": 8,
+          "label_name": "kayak"
+        },
+        {
+          "label_id": 9,
+          "label_name": "Rib"
+        },
+        {
+          "label_id": 10,
+          "label_name": "rib"
+        },
+        {
+          "label_id": 11,
+          "label_name": "motorboat"
+        },
+        {
+          "label_id": 12,
+          "label_name": "small rib"
+        }
+      ]
+    },
+    {
+      "id": "semantic segmentation",
+      "name": "semantic segmentation",
+      "description": "Generates a semantic segmentation image for each captured frame. Each object is rendered to the semantic segmentation image using the color associated with it based on this labeler's associated semantic segmentation label configuration. Semantic segmentation images are saved to the dataset in PNG format. Please note that only one SemanticSegmentationLabeler can render at once across all cameras.",
+      "format": "PNG",
+      "spec": [
+        {
+          "label_name": "racer",
+          "pixel_value": {
+            "r": 0.0,
+            "g": 1.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "motorboat",
+          "pixel_value": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "jetski",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "Fisherboat",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "Red Bouy",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 0.921568632,
+            "b": 0.0156862754,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "Sailboat",
+          "pixel_value": {
+            "r": 0.5,
+            "g": 0.5,
+            "b": 0.5,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "Rib",
+          "pixel_value": {
+            "r": 0.09930444,
+            "g": 1.0,
+            "b": 0.240614921,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "windsurfer",
+          "pixel_value": {
+            "r": 0.0557707548,
+            "g": 0.675009251,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "kayak",
+          "pixel_value": {
+            "r": 0.15713954,
+            "g": 0.4388624,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "rib",
+          "pixel_value": {
+            "r": 0.964221239,
+            "g": 0.07798523,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "label_name": "small rib",
+          "pixel_value": {
+            "r": 0.101655722,
+            "g": 1.0,
+            "b": 0.129740551,
+            "a": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "bounding box 3D",
+      "name": "bounding box 3D",
+      "description": "Produces 3D bounding box ground truth data for all visible objects that bear a label defined in this labeler's associated label configuration.",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "racer"
+        },
+        {
+          "label_id": 2,
+          "label_name": "Motorboat"
+        },
+        {
+          "label_id": 3,
+          "label_name": "jetski"
+        },
+        {
+          "label_id": 4,
+          "label_name": "Fisherboat"
+        },
+        {
+          "label_id": 5,
+          "label_name": "Red Bouy"
+        },
+        {
+          "label_id": 6,
+          "label_name": "Sailboat"
+        },
+        {
+          "label_id": 7,
+          "label_name": "windsurfer"
+        },
+        {
+          "label_id": 8,
+          "label_name": "kayak"
+        },
+        {
+          "label_id": 9,
+          "label_name": "Rib"
+        },
+        {
+          "label_id": 10,
+          "label_name": "rib"
+        },
+        {
+          "label_id": 11,
+          "label_name": "motorboat"
+        },
+        {
+          "label_id": 12,
+          "label_name": "small rib"
+        }
+      ]
+    }
+  ]
+}

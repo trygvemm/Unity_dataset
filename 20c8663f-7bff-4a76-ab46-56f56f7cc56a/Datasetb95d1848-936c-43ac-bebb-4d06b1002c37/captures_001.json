@@ -1,0 +1,7375 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "fd8b7645-fc1d-419c-a043-209efec406ad",
+      "sequence_id": "fa74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          64.2383957,
+          4.45311165,
+          49.4252243
+        ],
+        "rotation": [
+          0.122432247,
+          -0.3415888,
+          0.044932764,
+          0.930757
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_152.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 3.24170923,
+                "y": 0.419432163,
+                "z": 12.5861835
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65785027
+              },
+              "rotation": {
+                "x": 0.6455304,
+                "y": 0.517918169,
+                "z": -0.45116815,
+                "w": -0.33391425
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 861.0,
+              "y": 235.0,
+              "width": 419.0,
+              "height": 131.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_152.png"
+        }
+      ]
+    },
+    {
+      "id": "f3ae170b-a871-4b9f-ac0b-11fdfb326dd7",
+      "sequence_id": "fb74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          39.6765671,
+          11.7646942,
+          36.0805
+        ],
+        "rotation": [
+          0.152534515,
+          0.376660228,
+          -0.0630299151,
+          0.9115304
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_153.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.99390662,
+                "y": 3.53982663,
+                "z": 39.533
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.496150017,
+                "y": 0.6454579,
+                "z": 0.460404158,
+                "w": -0.353903025
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.97221446,
+                "y": 0.448857635,
+                "z": 32.5196
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": -0.0631783,
+                "y": 0.223268628,
+                "z": 0.6775703,
+                "w": 0.6978956
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_153.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 715.0,
+              "y": 135.0,
+              "width": 45.0,
+              "height": 94.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 317.0,
+              "y": 278.0,
+              "width": 159.0,
+              "height": 102.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9db25d3b-c6c0-411e-a3d6-23823daec381",
+      "sequence_id": "fc74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          60.6973572,
+          7.85255575,
+          42.8609924
+        ],
+        "rotation": [
+          0.20283851,
+          -0.0628795,
+          0.01305325,
+          0.977104068
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_154.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_154.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 561.0,
+              "y": 138.0,
+              "width": 260.0,
+              "height": 152.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.368605256,
+                "y": 1.44455445,
+                "z": 19.0118484
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.036855,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.206375673,
+                "y": -0.0344582237,
+                "z": -0.7118949,
+                "w": -0.670393467
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f866a457-f0e6-43c8-b224-50d2fa550275",
+      "sequence_id": "fd74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          62.42899,
+          9.438847,
+          37.22515
+        ],
+        "rotation": [
+          0.181120321,
+          -0.0893647447,
+          0.0165286958,
+          0.9792529
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_155.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 943.0,
+              "y": 110.0,
+              "width": 68.0,
+              "height": 138.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 568.0,
+              "y": 204.0,
+              "width": 277.0,
+              "height": 121.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.58765268,
+                "y": 2.35908079,
+                "z": 26.2822151
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7480195,
+                "y": 0.345407724,
+                "z": 0.237579733,
+                "w": -0.5145058
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.700537145,
+                "y": 1.19915247,
+                "z": 25.0392876
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.4306269,
+                "y": 0.152236119,
+                "z": -0.67085135,
+                "w": -0.5842458
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_155.png"
+        }
+      ]
+    },
+    {
+      "id": "2dabac50-ec7f-4590-aab0-6757b65f5ccb",
+      "sequence_id": "fe74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          67.37012,
+          4.927658,
+          42.46268
+        ],
+        "rotation": [
+          0.08029668,
+          -0.278466225,
+          0.0233695153,
+          0.956798255
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_156.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1095.0,
+              "y": 202.0,
+              "width": 94.0,
+              "height": 186.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 753.0,
+              "y": 291.0,
+              "width": 317.0,
+              "height": 112.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 5.02419043,
+                "y": 0.551078737,
+                "z": 19.37817
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7418034,
+                "y": 0.181832612,
+                "z": 0.153675973,
+                "w": -0.6269357
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.60651374,
+                "y": 0.06285655,
+                "z": 20.3212814
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.036855,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.2831981,
+                "y": 0.122586705,
+                "z": -0.6823933,
+                "w": -0.6626544
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_156.png"
+        }
+      ]
+    },
+    {
+      "id": "bbd6d2f1-f550-4d81-99ee-bb8bfe761f38",
+      "sequence_id": "ff74d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          61.7341232,
+          3.07243061,
+          48.7603531
+        ],
+        "rotation": [
+          0.051240284,
+          -0.186739653,
+          0.00975368,
+          0.9810238
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_157.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 1.62180471,
+                "y": -0.170836776,
+                "z": 12.4614582
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685522,
+                "z": 3.657852
+              },
+              "rotation": {
+                "x": 0.691761255,
+                "y": 0.7072635,
+                "z": 0.08165915,
+                "w": 0.120733857
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 679.0,
+              "y": 339.0,
+              "width": 428.0,
+              "height": 106.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_157.png"
+        }
+      ]
+    },
+    {
+      "id": "33aea4f7-2a2d-47bd-b187-db2f940b1845",
+      "sequence_id": "0075d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          50.5009727,
+          4.631057,
+          51.0128937
+        ],
+        "rotation": [
+          0.100556239,
+          0.5127875,
+          -0.0606315732,
+          0.8504477
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_158.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_158.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1032.0,
+              "y": 49.0,
+              "width": 102.0,
+              "height": 207.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 338.0,
+              "width": 78.0,
+              "height": 123.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.05975,
+                "y": 1.78455389,
+                "z": 17.6879463
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.3796343,
+                "y": 0.687376738,
+                "z": 0.542014539,
+                "w": -0.299351543
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.857096,
+                "y": -0.16376783,
+                "z": 12.2883692
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.639787436,
+                "y": 0.696806967,
+                "z": 0.14739652,
+                "w": 0.2888019
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9aab9dff-64b9-4881-9266-c0025bc86582",
+      "sequence_id": "0175d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          45.9022865,
+          11.7321663,
+          38.5995255
+        ],
+        "rotation": [
+          0.194423854,
+          0.317429721,
+          -0.06666662,
+          0.925739348
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_159.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_159.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 897.0,
+              "y": 107.0,
+              "width": 59.0,
+              "height": 120.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 300.0,
+              "y": 236.0,
+              "width": 194.0,
+              "height": 117.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.48326159,
+                "y": 2.91430974,
+                "z": 30.2240238
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.550158441,
+                "y": 0.6312476,
+                "z": 0.4121195,
+                "w": -0.359179258
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.48074436,
+                "y": 0.973166347,
+                "z": 27.3758526
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685522,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.699371934,
+                "y": 0.662064433,
+                "z": -0.262688279,
+                "w": 0.0595363267
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f143ea2-ad88-486f-8b48-8aaaa2fb9501",
+      "sequence_id": "0275d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          45.78263,
+          9.975207,
+          33.5348434
+        ],
+        "rotation": [
+          0.139170572,
+          0.265410721,
+          -0.03874883,
+          0.9532509
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_160.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 754.0,
+              "y": 179.0,
+              "width": 51.0,
+              "height": 106.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 373.0,
+              "y": 282.0,
+              "width": 169.0,
+              "height": 83.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 2.46945453,
+                "y": 2.16884136,
+                "z": 34.3209038
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.561432064,
+                "y": 0.5724883,
+                "z": 0.4266224,
+                "w": -0.4183832
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -2.99153447,
+                "y": 0.584678769,
+                "z": 31.217207
+              },
+              "size": {
+                "x": 0.6794714,
+                "y": 2.03685427,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.699667752,
+                "y": 0.675339341,
+                "z": -0.232693434,
+                "w": 0.01534764
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_160.png"
+        }
+      ]
+    },
+    {
+      "id": "7916f1cf-bcce-4ff1-8373-a598628a9815",
+      "sequence_id": "0375d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          73.13557,
+          7.6305294,
+          40.4521065
+        ],
+        "rotation": [
+          0.117113329,
+          -0.3638344,
+          0.0461686365,
+          0.922917962
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_161.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_161.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 798.0,
+              "y": 276.0,
+              "width": 237.0,
+              "height": 111.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1195.0,
+              "y": 306.0,
+              "width": 85.0,
+              "height": 181.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 3.40441179,
+                "y": 0.315746665,
+                "z": 25.3587551
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.272678882,
+                "y": 0.04983967,
+                "z": -0.693771064,
+                "w": -0.664713562
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 6.18018341,
+                "y": -0.451537758,
+                "z": 19.82663
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.781844437,
+                "y": 0.1166321,
+                "z": 0.09036525,
+                "w": -0.6057643
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad9caeec-04f4-44b9-92be-36b67a1f4c59",
+      "sequence_id": "0475d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          52.4408951,
+          5.6357646,
+          49.2513046
+        ],
+        "rotation": [
+          0.15976505,
+          0.3888234,
+          -0.0686600655,
+          0.9047527
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_162.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 538.0,
+              "y": 0.0,
+              "width": 97.0,
+              "height": 135.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 210.0,
+              "width": 314.0,
+              "height": 180.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -0.499845833,
+                "y": 2.941588,
+                "z": 17.980711
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.4901364,
+                "y": 0.656514168,
+                "z": 0.459452122,
+                "w": -0.343015015
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.0237093,
+                "y": 0.5003197,
+                "z": 13.1249475
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.3848723,
+                "y": 0.207014635,
+                "z": -0.6959426,
+                "w": -0.5698091
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_162.png"
+        }
+      ]
+    },
+    {
+      "id": "481a28fd-38b0-4b8a-8c66-d23fe8de1cbc",
+      "sequence_id": "0575d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          72.50994,
+          11.4066334,
+          34.0185242
+        ],
+        "rotation": [
+          0.164647862,
+          -0.2716915,
+          0.04723608,
+          0.947018266
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_163.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 716.0,
+              "y": 269.0,
+              "width": 173.0,
+              "height": 70.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 739.0,
+              "y": 249.0,
+              "width": 60.0,
+              "height": 123.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.57049417,
+                "y": 0.9250319,
+                "z": 31.6289921
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685427,
+                "z": 3.6578486
+              },
+              "rotation": {
+                "x": 0.7145383,
+                "y": 0.6331218,
+                "z": -0.280440956,
+                "w": -0.09972294
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.93299019,
+                "y": 0.657450736,
+                "z": 28.9889641
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.793511569,
+                "y": 0.197730944,
+                "z": 0.139159441,
+                "w": -0.558459044
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_163.png"
+        }
+      ]
+    },
+    {
+      "id": "9c865cc8-53db-4242-951c-2658d9ea563c",
+      "sequence_id": "0675d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          71.20074,
+          14.1193638,
+          32.5267563
+        ],
+        "rotation": [
+          0.205284074,
+          -0.234995916,
+          0.050848987,
+          0.948709548
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_164.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 654.0,
+              "y": 246.0,
+              "width": 219.0,
+              "height": 68.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 859.0,
+              "y": 293.0,
+              "width": 61.0,
+              "height": 122.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_164.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.10193443,
+                "y": 1.3446542,
+                "z": 33.23941
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.338820517,
+                "y": 0.5983363,
+                "z": 0.423573166,
+                "w": 0.589728951
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.72125888,
+                "y": 0.0245863,
+                "z": 28.7862835
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.807735264,
+                "y": 0.23295489,
+                "z": 0.150074139,
+                "w": -0.520359039
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba51ed07-5bfc-4e10-9a92-fd110f9d0e2b",
+      "sequence_id": "0775d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          55.6742325,
+          9.824902,
+          34.9365
+        ],
+        "rotation": [
+          0.171384782,
+          0.08017354,
+          -0.0139947133,
+          0.981836855
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_165.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 644.0,
+              "y": 180.0,
+              "width": 66.0,
+              "height": 138.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 425.0,
+              "y": 235.0,
+              "width": 275.0,
+              "height": 87.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_165.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 0.5073283,
+                "y": 1.4226433,
+                "z": 26.335535
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.6729076,
+                "y": 0.465391517,
+                "z": 0.327064216,
+                "w": -0.472900718
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -1.141961,
+                "y": 1.09411907,
+                "z": 27.28373
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685427,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.628263533,
+                "y": 0.5237758,
+                "z": -0.5112499,
+                "w": -0.263756216
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb5d1572-6774-4ccc-bac1-813440a4c292",
+      "sequence_id": "0875d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          60.9383926,
+          3.85565758,
+          49.89039
+        ],
+        "rotation": [
+          0.125218675,
+          -0.158772632,
+          0.02030503,
+          0.9791319
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_166.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 1.33847868,
+                "y": 0.5998955,
+                "z": 11.2315741
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685427,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.158592239,
+                "y": 0.29772222,
+                "z": 0.6302537,
+                "w": 0.699278355
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.14597154,
+                "y": 0.6333911,
+                "z": 8.850898
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7395873,
+                "y": 0.280784726,
+                "z": 0.217110217,
+                "w": -0.5718686
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 563.0,
+              "y": 170.0,
+              "width": 537.0,
+              "height": 186.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1217.0,
+              "y": 276.0,
+              "width": 63.0,
+              "height": 122.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_166.png"
+        }
+      ]
+    },
+    {
+      "id": "19a823c1-7c38-4bff-a569-3cdcd9a0f82b",
+      "sequence_id": "0975d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          55.03327,
+          5.21066,
+          46.7182159
+        ],
+        "rotation": [
+          0.141624779,
+          0.210435182,
+          -0.0308261532,
+          0.9668036
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_167.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_167.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -0.755330563,
+                "y": 1.83288085,
+                "z": 16.474678
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.5934722,
+                "y": 0.5396305,
+                "z": 0.401732415,
+                "w": -0.441815346
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -2.46559167,
+                "y": 0.6622252,
+                "z": 14.7621784
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.29627943,
+                "y": 0.1547594,
+                "z": -0.7072812,
+                "w": -0.6229137
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 499.0,
+              "y": 21.0,
+              "width": 105.0,
+              "height": 222.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 144.0,
+              "y": 204.0,
+              "width": 395.0,
+              "height": 150.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c05d854f-6124-49a2-bfa5-35931e89a09a",
+      "sequence_id": "0a75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          59.49764,
+          8.721193,
+          30.3435955
+        ],
+        "rotation": [
+          0.124283142,
+          -0.008619628,
+          0.00107968645,
+          0.9922088
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_168.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_168.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 702.0,
+              "y": 208.0,
+              "width": 54.0,
+              "height": 113.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 563.0,
+              "y": 286.0,
+              "width": 126.0,
+              "height": 71.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.47534657,
+                "y": 1.4831866,
+                "z": 32.09956
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.6871381,
+                "y": 0.388799965,
+                "z": 0.302240849,
+                "w": -0.5341595
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.227065086,
+                "y": 0.635461,
+                "z": 31.3295841
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65785122
+              },
+              "rotation": {
+                "x": 0.700428665,
+                "y": 0.698502839,
+                "z": -0.11259006,
+                "w": 0.09389932
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1e05071-2bc8-4ced-b55b-6a893602b6b3",
+      "sequence_id": "0b75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          64.74432,
+          6.000523,
+          35.1526642
+        ],
+        "rotation": [
+          0.08545159,
+          -0.135094568,
+          0.0116952425,
+          0.9870718
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_169.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 1.111464,
+                "y": 0.18030934,
+                "z": 26.6180115
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.08542876,
+                "y": -0.07605273,
+                "z": -0.7027398,
+                "w": -0.7021928
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.79094648,
+                "y": -0.243567884,
+                "z": 20.4786072
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.708681762,
+                "y": 0.289304316,
+                "z": 0.2432046,
+                "w": -0.5957556
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 649.0,
+              "y": 299.0,
+              "width": 155.0,
+              "height": 83.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1049.0,
+              "y": 286.0,
+              "width": 88.0,
+              "height": 176.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_169.png"
+        }
+      ]
+    },
+    {
+      "id": "9bd0e668-96fd-4966-839c-5b10b489cfb6",
+      "sequence_id": "0c75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          51.0125771,
+          4.17261076,
+          49.7637
+        ],
+        "rotation": [
+          0.0825906545,
+          0.45494476,
+          -0.0424247831,
+          0.885665953
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_170.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 329.0,
+              "width": 279.0,
+              "height": 115.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.407509,
+                "y": -0.173616886,
+                "z": 12.9665318
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.5424996,
+                "y": 0.4233973,
+                "z": -0.545859456,
+                "w": -0.477981657
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_170.png"
+        }
+      ]
+    },
+    {
+      "id": "b8519045-72d0-4e2d-a93d-ebaf8e2ddafa",
+      "sequence_id": "0d75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          67.11617,
+          4.6144495,
+          42.42418
+        ],
+        "rotation": [
+          0.0714741945,
+          -0.271353215,
+          0.0202110913,
+          0.9596095
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_171.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 747.0,
+              "y": 320.0,
+              "width": 255.0,
+              "height": 82.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_171.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.478866,
+                "y": 0.00459173741,
+                "z": 20.32803
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.69369,
+                "y": 0.7062193,
+                "z": 0.0323594026,
+                "w": 0.1378458
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3e42440-cd35-41d6-9611-d907b5580293",
+      "sequence_id": "0e75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          50.5938454,
+          5.298335,
+          46.4657631
+        ],
+        "rotation": [
+          0.109715469,
+          0.364314318,
+          -0.04326897,
+          0.9237778
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_172.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.84296727,
+                "y": 1.13942134,
+                "z": 17.78064
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.4887803,
+                "y": 0.61498785,
+                "z": 0.484413862,
+                "w": -0.3850026
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.80357575,
+                "y": 0.178917363,
+                "z": 16.4932919
+              },
+              "size": {
+                "x": 0.6794718,
+                "y": 2.036855,
+                "z": 3.65785027
+              },
+              "rotation": {
+                "x": 0.6734169,
+                "y": 0.616446853,
+                "z": -0.361756325,
+                "w": -0.188773632
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_172.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1007.0,
+              "y": 122.0,
+              "width": 101.0,
+              "height": 205.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 276.0,
+              "width": 421.0,
+              "height": 124.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3acbd23-44e7-40fe-abae-424cda688809",
+      "sequence_id": "0f75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          47.41476,
+          7.63574457,
+          42.89396
+        ],
+        "rotation": [
+          0.139449343,
+          0.359666765,
+          -0.0544578433,
+          0.920993
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_173.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_173.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.99522519,
+                "y": 1.47066677,
+                "z": 22.96751
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.5029704,
+                "y": 0.6285215,
+                "z": 0.463218957,
+                "w": -0.370688081
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.83567786,
+                "y": 0.3994149,
+                "z": 21.6510773
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.0412582979,
+                "y": 0.244796485,
+                "z": 0.66256547,
+                "w": 0.7066679
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 770.0,
+              "y": 148.0,
+              "width": 76.0,
+              "height": 159.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 135.0,
+              "y": 259.0,
+              "width": 282.0,
+              "height": 130.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86909d11-361e-4f43-985f-61122f44b56c",
+      "sequence_id": "1075d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          51.7092476,
+          3.79102421,
+          36.93888
+        ],
+        "rotation": [
+          0.0363120846,
+          0.187025174,
+          -0.00691815745,
+          0.9816594
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_174.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_174.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 2.07424021,
+                "y": 0.554862,
+                "z": 28.4666462
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.5548083,
+                "y": 0.478672862,
+                "z": 0.444523364,
+                "w": -0.515227139
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -2.25464845,
+                "y": -0.341300219,
+                "z": 24.9161835
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.691179454,
+                "y": 0.694544137,
+                "z": 0.09198888,
+                "w": 0.177249879
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 751.0,
+              "y": 252.0,
+              "width": 61.0,
+              "height": 128.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 361.0,
+              "y": 355.0,
+              "width": 200.0,
+              "height": 57.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4868c40-2d7a-4101-8e07-d2ad7f969a4c",
+      "sequence_id": "1175d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          67.5309,
+          3.21821165,
+          42.6416969
+        ],
+        "rotation": [
+          0.0281714965,
+          -0.286526948,
+          0.008429112,
+          0.957620859
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_175.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.62406135,
+                "y": -0.426542819,
+                "z": 20.1076164
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.7013809,
+                "y": 0.7011288,
+                "z": 0.0378736667,
+                "w": 0.122674145
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.84481621,
+                "y": -0.0149349254,
+                "z": 16.3653584
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.707954764,
+                "y": 0.167907327,
+                "z": 0.158310577,
+                "w": -0.667491555
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 762.0,
+              "y": 363.0,
+              "width": 258.0,
+              "height": 70.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1041.0,
+              "y": 240.0,
+              "width": 110.0,
+              "height": 219.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_175.png"
+        }
+      ]
+    },
+    {
+      "id": "46004a99-28ed-4157-aa19-ef9a17ca80ae",
+      "sequence_id": "1275d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          58.6971321,
+          5.50680256,
+          46.9843254
+        ],
+        "rotation": [
+          0.177844316,
+          0.0208784509,
+          -0.003774142,
+          0.9838299
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_176.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_176.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 285.0,
+              "y": 118.0,
+              "width": 513.0,
+              "height": 167.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.595240653,
+                "y": 1.173426,
+                "z": 14.2788429
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.2405472,
+                "y": 0.461994946,
+                "z": 0.5381803,
+                "w": 0.6626159
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d56fa1b-8910-4d06-b993-2e931604bc73",
+      "sequence_id": "1375d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          41.02821,
+          14.2358379,
+          35.060997
+        ],
+        "rotation": [
+          0.191422492,
+          0.345819,
+          -0.07229024,
+          0.915718734
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_177.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_177.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 794.0,
+              "y": 232.0,
+              "width": 54.0,
+              "height": 110.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 314.0,
+              "y": 260.0,
+              "width": 192.0,
+              "height": 104.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.04935837,
+                "y": 1.1455121,
+                "z": 32.5634575
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.530158758,
+                "y": 0.647472143,
+                "z": 0.4235789,
+                "w": -0.346832
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.765861,
+                "y": 0.837142,
+                "z": 33.44297
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.06345794,
+                "y": 0.351061344,
+                "z": 0.617826462,
+                "w": 0.7007278
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de8c0cb9-d4d4-4c5d-90b5-cab56b6d046b",
+      "sequence_id": "1475d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          55.30299,
+          3.48470545,
+          49.1302376
+        ],
+        "rotation": [
+          0.07566893,
+          0.261510074,
+          -0.0205696262,
+          0.9620102
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_178.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_178.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1049.0,
+              "y": 74.0,
+              "width": 91.0,
+              "height": 190.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 304.0,
+              "width": 399.0,
+              "height": 121.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.657417,
+                "y": 1.87986135,
+                "z": 19.8289375
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.5357158,
+                "y": 0.5396128,
+                "z": 0.460914284,
+                "w": -0.4575856
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.00171185,
+                "y": -0.00280731125,
+                "z": 12.0085888
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.6168815,
+                "y": 0.6749689,
+                "z": 0.248404264,
+                "w": 0.319639951
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ad247e9-2eac-422f-b66d-827c7c091e0d",
+      "sequence_id": "1575d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          65.48053,
+          5.08075047,
+          46.84085
+        ],
+        "rotation": [
+          0.118910305,
+          -0.3103808,
+          0.0391661,
+          0.942332268
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_179.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_179.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.90807986,
+                "y": 0.429692179,
+                "z": 15.643446
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.647132635,
+                "y": 0.5896621,
+                "z": -0.427993268,
+                "w": -0.22436516
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 791.0,
+              "y": 236.0,
+              "width": 439.0,
+              "height": 132.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0ebc73c-8bc2-4ff8-9283-260f04a44765",
+      "sequence_id": "1675d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          62.88161,
+          5.631764,
+          42.87488
+        ],
+        "rotation": [
+          0.121461608,
+          -0.145006329,
+          0.0179395024,
+          0.9817833
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_180.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 638.0,
+              "y": 257.0,
+              "width": 266.0,
+              "height": 92.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 1.25044143,
+                "y": 0.585978746,
+                "z": 18.8677711
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685522,
+                "z": 3.65785122
+              },
+              "rotation": {
+                "x": 0.7135105,
+                "y": 0.669781446,
+                "z": -0.19135797,
+                "w": -0.07535083
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_180.png"
+        }
+      ]
+    },
+    {
+      "id": "2df3415c-aafd-4677-9bbe-d4a34d52a9b2",
+      "sequence_id": "1775d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          39.822834,
+          8.913123,
+          34.2450027
+        ],
+        "rotation": [
+          0.105331838,
+          0.356943756,
+          -0.04054595,
+          0.9272823
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_181.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 5.13999367,
+                "y": 0.9500355,
+                "z": 33.87445
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.49181053,
+                "y": 0.608496,
+                "z": 0.4843567,
+                "w": -0.3914762
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.75512719,
+                "y": 0.158043727,
+                "z": 33.27404
+              },
+              "size": {
+                "x": 0.6794714,
+                "y": 2.03685427,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.711011052,
+                "y": 0.6801915,
+                "z": -0.171368077,
+                "w": -0.0493533537
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_181.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 908.0,
+              "y": 246.0,
+              "width": 52.0,
+              "height": 108.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 344.0,
+              "y": 324.0,
+              "width": 161.0,
+              "height": 56.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da65b5d9-7039-46f3-b752-9cdd05ed3702",
+      "sequence_id": "1875d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          58.80282,
+          3.12849879,
+          46.6693573
+        ],
+        "rotation": [
+          0.0460162461,
+          0.014492712,
+          -0.0006676778,
+          0.9988353
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_182.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_182.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 291.0,
+              "y": 332.0,
+              "width": 529.0,
+              "height": 96.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 638.0,
+              "y": 157.0,
+              "width": 153.0,
+              "height": 313.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.5442709,
+                "y": -0.217195272,
+                "z": 14.2269258
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.513311565,
+                "y": 0.577573538,
+                "z": 0.437471271,
+                "w": 0.459933668
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 0.438153923,
+                "y": 0.164393336,
+                "z": 11.4301376
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.6344783,
+                "y": 0.378694683,
+                "z": 0.345338523,
+                "w": -0.578592241
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c02a622-a5d5-4c4c-8f79-97df45e011fa",
+      "sequence_id": "1975d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          60.52523,
+          5.18421555,
+          46.40912
+        ],
+        "rotation": [
+          0.149773344,
+          -0.07865503,
+          0.01195358,
+          0.985514343
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_183.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 526.0,
+              "y": 162.0,
+              "width": 325.0,
+              "height": 168.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.5088827,
+                "y": 0.8801368,
+                "z": 14.8637743
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": -0.00632043229,
+                "y": 0.18693772,
+                "z": 0.6795798,
+                "w": 0.7093559
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_183.png"
+        }
+      ]
+    },
+    {
+      "id": "521b74e9-0337-408f-a6c7-438cf3cc49cc",
+      "sequence_id": "1a75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          73.70128,
+          7.77739859,
+          40.4140625
+        ],
+        "rotation": [
+          0.117485784,
+          -0.372276574,
+          0.0475701131,
+          0.919426143
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_184.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 3.479124,
+                "y": 0.339839518,
+                "z": 25.840519
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.679712355,
+                "y": 0.6173954,
+                "z": -0.3548848,
+                "w": -0.175701231
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 2.21341372,
+                "y": -0.7328981,
+                "z": 19.1952686
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7834145,
+                "y": 0.109501258,
+                "z": 0.0846875,
+                "w": -0.605887234
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 789.0,
+              "y": 292.0,
+              "width": 240.0,
+              "height": 82.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 817.0,
+              "y": 333.0,
+              "width": 92.0,
+              "height": 186.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_184.png"
+        }
+      ]
+    },
+    {
+      "id": "7c8bbc05-d96e-40a1-ab1c-9e09561e94b0",
+      "sequence_id": "1b75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          58.0674133,
+          8.267447,
+          39.1358452
+        ],
+        "rotation": [
+          0.1730271,
+          0.0297747124,
+          -0.00523319235,
+          0.984453
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_185.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.6658309,
+                "y": 1.14284563,
+                "z": 22.6749268
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.036855,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.6100392,
+                "y": 0.6845418,
+                "z": 0.118656777,
+                "w": 0.381018937
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_185.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 435.0,
+              "y": 204.0,
+              "width": 283.0,
+              "height": 115.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d010963-89c3-4817-84e6-0347c7c79565",
+      "sequence_id": "1c75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          60.79471,
+          3.82086849,
+          48.6195641
+        ],
+        "rotation": [
+          0.103502974,
+          -0.121993981,
+          0.012792578,
+          0.987036467
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_186.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.9625008,
+                "y": 0.3786031,
+                "z": 12.457963
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.00138499076,
+                "y": -0.151495352,
+                "z": -0.691371739,
+                "w": -0.706436455
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 2.19143653,
+                "y": 0.455322742,
+                "z": 9.761836
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7154705,
+                "y": 0.3030244,
+                "z": 0.245504379,
+                "w": -0.579660058
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 587.0,
+              "y": 211.0,
+              "width": 363.0,
+              "height": 178.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 981.0,
+              "y": 63.0,
+              "width": 183.0,
+              "height": 373.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_186.png"
+        }
+      ]
+    },
+    {
+      "id": "896a46a6-9de3-4129-b492-db3fb3a4d59b",
+      "sequence_id": "1d75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          63.3734055,
+          5.7961216,
+          47.91091
+        ],
+        "rotation": [
+          0.182120025,
+          -0.2501749,
+          0.0479746461,
+          0.949707
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_187.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_187.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 2.3056767,
+                "y": 1.12093163,
+                "z": 14.1307821
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685522,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.6474948,
+                "y": 0.6981372,
+                "z": 0.00701345969,
+                "w": 0.305460274
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.05648327,
+                "y": 0.6416404,
+                "z": 11.2211514
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.7985114,
+                "y": 0.217582777,
+                "z": 0.147561148,
+                "w": -0.541537642
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 741.0,
+              "y": 114.0,
+              "width": 428.0,
+              "height": 197.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 1249.0,
+              "y": 286.0,
+              "width": 31.0,
+              "height": 95.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3fb06c43-e4c5-4059-b792-97625c90f521",
+      "sequence_id": "1e75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          47.0265427,
+          9.833721,
+          40.59074
+        ],
+        "rotation": [
+          0.175223127,
+          0.3267913,
+          -0.0617937744,
+          0.926653
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_188.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -3.681709,
+                "y": 2.3016448,
+                "z": 26.66232
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.537372947,
+                "y": 0.6275309,
+                "z": 0.4279478,
+                "w": -0.366464138
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -3.58366871,
+                "y": 0.7645452,
+                "z": 24.4717331
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.036855,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.09594834,
+                "y": 0.309954435,
+                "z": 0.623108,
+                "w": 0.711659
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_188.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 340.0,
+              "y": 118.0,
+              "width": 67.0,
+              "height": 136.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 204.0,
+              "y": 242.0,
+              "width": 269.0,
+              "height": 118.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "314536d2-3c9d-4a00-ad71-f1a1845d390a",
+      "sequence_id": "1f75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          41.5289841,
+          10.327837,
+          46.65763
+        ],
+        "rotation": [
+          0.16400589,
+          0.5138654,
+          -0.100810759,
+          0.835991442
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_189.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_189.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 527.0,
+              "y": 87.0,
+              "width": 61.0,
+              "height": 127.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 81.0,
+              "y": 291.0,
+              "width": 327.0,
+              "height": 111.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -1.23052931,
+                "y": 3.01696873,
+                "z": 28.7964878
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.3950499,
+                "y": 0.729963243,
+                "z": 0.49052608,
+                "w": -0.2654685
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.8067956,
+                "y": 0.153757229,
+                "z": 23.4577045
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685427,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.6724573,
+                "y": 0.53945,
+                "z": -0.456714481,
+                "w": -0.219560578
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ae8a67c-f708-42ef-b170-7bf3c98890b4",
+      "sequence_id": "2075d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          53.75272,
+          4.651689,
+          40.7954
+        ],
+        "rotation": [
+          0.07303761,
+          0.171529651,
+          -0.0127527546,
+          0.9823851
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_190.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_190.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 310.0,
+              "y": 325.0,
+              "width": 265.0,
+              "height": 68.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 543.0,
+              "y": 217.0,
+              "width": 94.0,
+              "height": 193.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -2.05497146,
+                "y": 0.02972801,
+                "z": 20.8096046
+              },
+              "size": {
+                "x": 0.6794718,
+                "y": 2.03685546,
+                "z": 3.65785122
+              },
+              "rotation": {
+                "x": 0.7021616,
+                "y": 0.6666366,
+                "z": -0.205917776,
+                "w": -0.141995758
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -0.48346436,
+                "y": 0.339033931,
+                "z": 18.5677185
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.581158042,
+                "y": 0.4859978,
+                "z": 0.418733537,
+                "w": -0.5007232
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63a297d2-e496-4309-89ac-c6c4b931ff54",
+      "sequence_id": "2175d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          63.65226,
+          8.938269,
+          36.89609
+        ],
+        "rotation": [
+          0.164303318,
+          -0.118859708,
+          0.0199475586,
+          0.979019344
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_191.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 558.0,
+              "y": 236.0,
+              "width": 294.0,
+              "height": 86.0
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 924.0,
+              "y": 232.0,
+              "width": 81.0,
+              "height": 165.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.905407846,
+                "y": 1.04290819,
+                "z": 25.4733276
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.533046,
+                "y": 0.6513643,
+                "z": 0.264082283,
+                "w": 0.4710063
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.66286135,
+                "y": 0.432426423,
+                "z": 21.766449
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.749215,
+                "y": 0.31922394,
+                "z": 0.227474585,
+                "w": -0.533880353
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_191.png"
+        }
+      ]
+    },
+    {
+      "id": "0a68527b-542a-4892-a98b-966e445f4214",
+      "sequence_id": "2275d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          52.7254829,
+          12.0815468,
+          35.2505569
+        ],
+        "rotation": [
+          0.211429372,
+          0.147312462,
+          -0.03225279,
+          0.965689659
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_192.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 4.12005043,
+                "y": 3.11681914,
+                "z": 30.3263912
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.6573493,
+                "y": 0.526135266,
+                "z": 0.3371307,
+                "w": -0.421208441
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -1.84208846,
+                "y": 1.42366242,
+                "z": 28.155735
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.4928434,
+                "y": 0.272084266,
+                "z": -0.671136856,
+                "w": -0.482339144
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_192.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 873.0,
+              "y": 96.0,
+              "width": 58.0,
+              "height": 119.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 388.0,
+              "y": 222.0,
+              "width": 262.0,
+              "height": 88.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4efc60c3-cd54-4daf-a20b-e055a6daaac6",
+      "sequence_id": "2375d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          51.28453,
+          5.7586937,
+          48.8174248
+        ],
+        "rotation": [
+          0.146614313,
+          0.410801381,
+          -0.06711895,
+          0.8973525
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_193.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -1.6030556,
+                "y": 1.84460986,
+                "z": 16.5458584
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.4703261,
+                "y": 0.6617633,
+                "z": 0.475887716,
+                "w": -0.338221252
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.244499,
+                "y": 0.341848373,
+                "z": 14.0611162
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685427,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.1497357,
+                "y": 0.361476183,
+                "z": 0.6075355,
+                "w": 0.6912415
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_193.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 400.0,
+              "y": 21.0,
+              "width": 106.0,
+              "height": 222.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 218.0,
+              "width": 292.0,
+              "height": 179.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "614154fa-8435-4da7-9f5a-8df906291ee0",
+      "sequence_id": "2475d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          65.64479,
+          6.51075459,
+          48.0383759
+        ],
+        "rotation": [
+          0.185262442,
+          -0.345788866,
+          0.06984594,
+          0.9171856
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_194.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_194.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 3.23334551,
+                "y": 0.990470469,
+                "z": 14.9769459
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685522,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.6602942,
+                "y": 0.6985676,
+                "z": -0.046675466,
+                "w": 0.2717286
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 866.0,
+              "y": 139.0,
+              "width": 380.0,
+              "height": 201.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "770926a8-ea1e-46c1-ad17-c8784dc89d79",
+      "sequence_id": "2575d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          60.5087662,
+          10.6703854,
+          37.5829468
+        ],
+        "rotation": [
+          0.2154694,
+          -0.039316643,
+          0.008682694,
+          0.9756802
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_195.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_195.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 882.0,
+              "y": 134.0,
+              "width": 75.0,
+              "height": 151.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 525.0,
+              "y": 177.0,
+              "width": 228.0,
+              "height": 119.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 3.456378,
+                "y": 1.77319324,
+                "z": 23.833828
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.746397436,
+                "y": 0.391741574,
+                "z": 0.250015736,
+                "w": -0.476362824
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": 0.0786397,
+                "y": 1.6098274,
+                "z": 24.9853249
+              },
+              "size": {
+                "x": 0.6794717,
+                "y": 2.036855,
+                "z": 3.65785074
+              },
+              "rotation": {
+                "x": 0.625044,
+                "y": 0.703977644,
+                "z": 0.0331008434,
+                "w": 0.335618854
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f7404e7-bcc0-40f6-b86e-cc64f9ad864b",
+      "sequence_id": "2675d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          44.8389664,
+          5.08629036,
+          46.206768
+        ],
+        "rotation": [
+          0.0711189359,
+          0.473695844,
+          -0.0384148732,
+          0.8769713
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_196.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_196.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 713.0,
+              "y": 233.0,
+              "width": 93.0,
+              "height": 190.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 340.0,
+              "width": 371.0,
+              "height": 88.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 1.164167,
+                "y": 0.200031742,
+                "z": 18.8816872
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.3995258,
+                "y": 0.648803055,
+                "z": 0.5514659,
+                "w": -0.339586675
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.6434145,
+                "y": -0.273737431,
+                "z": 19.9135132
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.036855,
+                "z": 3.65785027
+              },
+              "rotation": {
+                "x": 0.338294864,
+                "y": 0.434065282,
+                "z": 0.558301568,
+                "w": 0.6208409
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f49d1d09-d030-4f43-aa1d-1824df84edfe",
+      "sequence_id": "2775d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          57.7339134,
+          5.029587,
+          40.43139
+        ],
+        "rotation": [
+          0.08856926,
+          0.04361542,
+          -0.00388197973,
+          0.9951071
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_197.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 0.960365653,
+                "y": 1.02691877,
+                "z": 21.5112286
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.6468206,
+                "y": 0.4122236,
+                "z": 0.344841242,
+                "w": -0.541090846
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.8012247,
+                "y": 0.241083741,
+                "z": 20.7047844
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685474,
+                "z": 3.65784979
+              },
+              "rotation": {
+                "x": 0.6642963,
+                "y": 0.6873312,
+                "z": 0.111951634,
+                "w": 0.2715754
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_197.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 686.0,
+              "y": 174.0,
+              "width": 81.0,
+              "height": 168.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 424.0,
+              "y": 289.0,
+              "width": 268.0,
+              "height": 93.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4da136a3-9fde-4aa7-b562-fd8efd75f3e9",
+      "sequence_id": "2875d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          33.181,
+          8.874319,
+          44.22959
+        ],
+        "rotation": [
+          0.0953459,
+          0.54407537,
+          -0.06240553,
+          0.8312621
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_198.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_198.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 302.0,
+              "y": 212.0,
+              "width": 48.0,
+              "height": 100.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 197.0,
+              "y": 351.0,
+              "width": 245.0,
+              "height": 51.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -5.9789257,
+                "y": 1.767091,
+                "z": 36.896946
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.353005767,
+                "y": 0.6989976,
+                "z": 0.555147052,
+                "w": -0.280358732
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -5.03090954,
+                "y": -0.271695882,
+                "z": 30.9325218
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65785122
+              },
+              "rotation": {
+                "x": 0.473597229,
+                "y": 0.5906215,
+                "z": 0.404574037,
+                "w": 0.5130223
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03aa6c07-8229-4754-94e2-e15a90cbde0c",
+      "sequence_id": "2975d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          50.11878,
+          4.26875067,
+          49.9942665
+        ],
+        "rotation": [
+          0.0803246647,
+          0.4845587,
+          -0.04474241,
+          0.869913161
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_199.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": 0.920046747,
+                "y": 0.2910869,
+                "z": 12.6352444
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.394763172,
+                "y": 0.660089254,
+                "z": 0.5484931,
+                "w": -0.328023642
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.65444851,
+                "y": -0.2430036,
+                "z": 13.2320786
+              },
+              "size": {
+                "x": 0.6794716,
+                "y": 2.03685474,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": -0.087294,
+                "y": 0.0489889123,
+                "z": 0.705235243,
+                "w": 0.701871157
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 711.0,
+              "y": 156.0,
+              "width": 139.0,
+              "height": 285.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 0.0,
+              "y": 306.0,
+              "width": 130.0,
+              "height": 171.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_199.png"
+        }
+      ]
+    },
+    {
+      "id": "53ed76eb-2d05-451a-85aa-45a9eddf245d",
+      "sequence_id": "2a75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          39.1753922,
+          7.51224947,
+          38.4870834
+        ],
+        "rotation": [
+          0.0889322162,
+          0.415863663,
+          -0.04090465,
+          0.904143453
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_200.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "x": 484.0,
+              "y": 214.0,
+              "width": 50.0,
+              "height": 105.0
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 290.0,
+              "y": 332.0,
+              "width": 158.0,
+              "height": 65.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 5,
+              "label_name": "Red Bouy",
+              "instance_id": 2,
+              "translation": {
+                "x": -2.369668,
+                "y": 1.60733616,
+                "z": 35.1449966
+              },
+              "size": {
+                "x": 0.9014411,
+                "y": 0.9014413,
+                "z": 2.05161214
+              },
+              "rotation": {
+                "x": 0.446640134,
+                "y": 0.630817652,
+                "z": 0.5178353,
+                "w": -0.3666448
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            },
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -4.213022,
+                "y": -0.05595224,
+                "z": 30.0222912
+              },
+              "size": {
+                "x": 0.679471552,
+                "y": 2.03685451,
+                "z": 3.657849
+              },
+              "rotation": {
+                "x": 0.7054265,
+                "y": 0.700293362,
+                "z": -0.0996983,
+                "w": 0.0449774526
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_200.png"
+        }
+      ]
+    },
+    {
+      "id": "628dad04-1ee9-4ee4-bf16-79b6af783d48",
+      "sequence_id": "2b75d7f7-c9a5-400d-8848-4d58bc9a2fe2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          58.477417,
+          5.496564,
+          47.0319252
+        ],
+        "rotation": [
+          0.177930847,
+          0.0336705558,
+          -0.00609186431,
+          0.983447969
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB708c9049-6a22-40d0-ac95-465760e758bf/rgb_201.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation76fe8902-3c6e-4e70-be32-e7bd5d331037/segmentation_201.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "x": 345.0,
+              "y": 109.0,
+              "width": 418.0,
+              "height": 182.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 12,
+              "label_name": "small rib",
+              "instance_id": 1,
+              "translation": {
+                "x": -0.6610482,
+                "y": 1.19377685,
+                "z": 14.282
+              },
+              "size": {
+                "x": 0.679471433,
+                "y": 2.03685451,
+                "z": 3.65784931
+              },
+              "rotation": {
+                "x": 0.69301635,
+                "y": 0.6365638,
+                "z": -0.3348588,
+                "w": -0.04883224
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
