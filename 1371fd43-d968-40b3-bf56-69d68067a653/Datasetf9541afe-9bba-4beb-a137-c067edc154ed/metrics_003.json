@@ -1,0 +1,1515 @@
+{
+  "version": "0.0.1",
+  "metrics": [
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "fd57b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "fe57b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        227
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "fe57b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ff57b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        228
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ff57b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        229
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        230
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        231
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        232
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        233
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        234
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        235
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        236
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        237
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        238
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        239
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        240
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        241
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        242
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        243
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        244
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        245
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        246
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        247
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        248
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        249
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        250
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        251
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        252
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        253
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        254
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        255
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        256
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        257
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        258
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        259
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        260
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        261
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        262
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        263
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        264
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        265
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        266
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        267
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        268
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        269
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        270
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        271
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        272
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        273
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        274
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        275
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        276
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        277
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        278
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        279
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        280
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        281
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        282
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        283
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        284
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        285
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        286
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3958b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        287
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3a58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        288
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3b58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        289
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3c58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        290
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3d58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        291
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3e58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        292
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "3f58b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        293
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4058b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        294
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4158b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        295
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4258b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        296
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4358b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        297
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4458b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        298
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4558b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        299
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4658b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        300
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4758b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "scenario_iteration",
+      "values": [
+        301
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4858b76e-1705-4a38-893b-388d08229d00",
+      "step": 0,
+      "metric_definition": "random-seed",
+      "values": [
+        539662031
+      ]
+    }
+  ]
+}
