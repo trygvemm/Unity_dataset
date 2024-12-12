@@ -1,0 +1,5855 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "f1b1949f-1872-4bfe-8abe-0fd5f8efc746",
+      "sequence_id": "30a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          58.0821571,
+          5.141098,
+          37.9496956
+        ],
+        "rotation": [
+          0.0507401228,
+          0.161521092,
+          -0.008315939,
+          0.985528946
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_452.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.02807331,
+                "y": 2.331554,
+                "z": 17.9868011
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989665,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": -0.07156455,
+                "y": 0.6181261,
+                "z": -0.00723828329,
+                "w": 0.782781243
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 872.0,
+              "y": 0.0,
+              "width": 353.0,
+              "height": 617.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_452.png"
+        }
+      ]
+    },
+    {
+      "id": "97713caf-e9f4-4b7f-85c8-3c7f21a6ef11",
+      "sequence_id": "31a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          72.5932159,
+          7.327566,
+          39.0458679
+        ],
+        "rotation": [
+          0.105368108,
+          -0.239054471,
+          0.0261044819,
+          0.9649192
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_453.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 609.0,
+              "y": 0.0,
+              "width": 254.0,
+              "height": 460.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.051049,
+                "y": 3.39903975,
+                "z": 23.2513313
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.09640738,
+                "y": 0.5261735,
+                "z": -0.0547522157,
+                "w": -0.8431188
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_453.png"
+        }
+      ]
+    },
+    {
+      "id": "641c4c65-f36f-4db1-8f74-03d15a6994f8",
+      "sequence_id": "32a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          72.33082,
+          11.8783188,
+          28.44821
+        ],
+        "rotation": [
+          0.146296263,
+          -0.14835006,
+          0.0221957583,
+          0.977802157
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_454.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_454.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 535.0,
+              "y": 0.0,
+              "width": 360.0,
+              "height": 410.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.25657511,
+                "y": 3.24807334,
+                "z": 32.0115166
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.184420511,
+                "y": -0.0267457142,
+                "z": 0.00299406354,
+                "w": -0.9824789
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9dd734cc-2f31-4bbb-b59b-9116de5d8b9f",
+      "sequence_id": "33a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          35.5270462,
+          14.8540163,
+          36.1436
+        ],
+        "rotation": [
+          0.143412158,
+          0.462421834,
+          -0.07608019,
+          0.871671259
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_455.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_455.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 524.0,
+              "y": 0.0,
+              "width": 293.0,
+              "height": 378.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.636224866,
+                "y": 3.6682713,
+                "z": 39.6391335
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989666,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": 0.0169512611,
+                "y": 0.980220735,
+                "z": -0.1661233,
+                "w": -0.106221914
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "715ac2c3-6d9d-4542-bedf-38a69d307ff6",
+      "sequence_id": "34a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          44.6620865,
+          18.4923649,
+          21.3884964
+        ],
+        "rotation": [
+          0.178753331,
+          0.2507962,
+          -0.04717911,
+          0.950222433
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_456.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 773.0,
+              "y": 23.0,
+              "width": 89.0,
+              "height": 471.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_456.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.55359864,
+                "y": 2.08619714,
+                "z": 40.74889
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.131573886,
+                "y": 0.61154747,
+                "z": -0.1256544,
+                "w": -0.7700059
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d88f261-64e8-45ce-86bb-73224e02fd99",
+      "sequence_id": "35a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          73.9791,
+          17.3713856,
+          8.428852
+        ],
+        "rotation": [
+          0.141804829,
+          -0.103811972,
+          0.0149555029,
+          0.9843225
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_457.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_457.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 299.0,
+              "y": 97.0,
+              "width": 246.0,
+              "height": 381.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -5.445896,
+                "y": 1.31299889,
+                "z": 46.1006165
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.172755942,
+                "y": 0.109937191,
+                "z": -0.0123032257,
+                "w": 0.978732765
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fdd0003-f3fe-4946-8ae0-39bad8762709",
+      "sequence_id": "36a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          33.2344742,
+          9.842787,
+          34.3125839
+        ],
+        "rotation": [
+          0.07748346,
+          0.4641149,
+          -0.0407984629,
+          0.8814359
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_458.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_458.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 405.0,
+              "y": 0.0,
+              "width": 310.0,
+              "height": 456.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.62964785,
+                "y": 2.36669183,
+                "z": 37.5152245
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": -0.0931940451,
+                "y": 0.0781433955,
+                "z": -0.006401911,
+                "w": 0.9925561
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c61a25c-9ada-43c3-b0e2-b131abb74237",
+      "sequence_id": "37a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          51.12799,
+          4.345756,
+          41.8409576
+        ],
+        "rotation": [
+          0.0274787489,
+          0.369763166,
+          -0.0109412288,
+          0.9286552
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_459.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 6.06720161,
+                "y": 2.384209,
+                "z": 18.6212273
+              },
+              "size": {
+                "x": 6.169923,
+                "y": 9.989665,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": 0.002268882,
+                "y": 0.665378,
+                "z": -0.0414442569,
+                "w": 0.74535197
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 1127.0,
+              "y": 0.0,
+              "width": 153.0,
+              "height": 561.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_459.png"
+        }
+      ]
+    },
+    {
+      "id": "adb8f892-d73f-45e9-ad52-a52884385796",
+      "sequence_id": "38a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          56.9563179,
+          22.618866,
+          6.13126755
+        ],
+        "rotation": [
+          0.184149176,
+          0.06933213,
+          -0.0130231855,
+          0.9803635
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_460.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.16167235,
+                "y": 2.48530865,
+                "z": 53.2035942
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989667,
+                "z": 1.68327308
+              },
+              "rotation": {
+                "x": 0.101282626,
+                "y": 0.8273407,
+                "z": -0.152975842,
+                "w": -0.5308932
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 534.0,
+              "y": 90.0,
+              "width": 110.0,
+              "height": 354.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_460.png"
+        }
+      ]
+    },
+    {
+      "id": "a06699a7-266e-44dc-ba61-6d12dc91b293",
+      "sequence_id": "39a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          48.8889923,
+          20.3747959,
+          2.77072144
+        ],
+        "rotation": [
+          0.149620384,
+          0.1374019,
+          -0.0210007243,
+          0.978924632
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_461.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_461.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 533.0,
+              "y": 137.0,
+              "width": 216.0,
+              "height": 333.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -0.08296769,
+                "y": 1.18205607,
+                "z": 53.15704
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.167632282,
+                "y": 0.131003946,
+                "z": -0.0175807141,
+                "w": 0.9769485
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88167cc0-8ebd-4e46-9a2d-58c7558bea2a",
+      "sequence_id": "3aa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          27.67485,
+          13.4139471,
+          26.4878788
+        ],
+        "rotation": [
+          0.0970484242,
+          0.4315423,
+          -0.0467605554,
+          0.8956374
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_462.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 376.0,
+              "y": 52.0,
+              "width": 245.0,
+              "height": 370.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_462.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.56497169,
+                "y": 2.581992,
+                "z": 48.12109
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989667,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": 0.0006400622,
+                "y": 0.9919927,
+                "z": -0.126091674,
+                "w": -0.007137254
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3238102a-9aed-43a7-9cc3-433a04d7af12",
+      "sequence_id": "3ba1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          44.4109879,
+          6.2548604,
+          38.5407066
+        ],
+        "rotation": [
+          0.0528196245,
+          0.4157767,
+          -0.0241967272,
+          0.9076091
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_463.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.68264484,
+                "y": 2.57608366,
+                "z": 27.455904
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.029757455,
+                "y": 0.871434152,
+                "z": -0.0482069477,
+                "w": 0.48723
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 198.0,
+              "y": 0.0,
+              "width": 311.0,
+              "height": 504.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_463.png"
+        }
+      ]
+    },
+    {
+      "id": "e65587f9-901e-4dea-9361-5b0e48973067",
+      "sequence_id": "3ca1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          46.67827,
+          11.0094347,
+          16.53455
+        ],
+        "rotation": [
+          0.08824545,
+          0.206830829,
+          -0.01873508,
+          0.9742088
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_464.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.53696156,
+                "y": 3.63705277,
+                "z": 49.92871
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989666,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": -0.0136087416,
+                "y": 0.9926703,
+                "z": -0.05407662,
+                "w": 0.1072203
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 621.0,
+              "y": 22.0,
+              "width": 233.0,
+              "height": 368.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_464.png"
+        }
+      ]
+    },
+    {
+      "id": "02882b80-77d0-4586-afe7-b998ca7fb621",
+      "sequence_id": "3da1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          44.40013,
+          11.6170015,
+          39.2685852
+        ],
+        "rotation": [
+          0.1437079,
+          0.421048462,
+          -0.06775698,
+          0.893014669
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_465.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.38720632,
+                "y": 3.70239043,
+                "z": 30.3385639
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.07893531,
+                "y": 0.9084624,
+                "z": -0.111300111,
+                "w": -0.39506647
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 395.0,
+              "y": 0.0,
+              "width": 279.0,
+              "height": 417.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_465.png"
+        }
+      ]
+    },
+    {
+      "id": "a231d8b8-7539-4d2d-9e82-560aff6579db",
+      "sequence_id": "3ea1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          66.21468,
+          18.0173988,
+          7.53389359
+        ],
+        "rotation": [
+          0.148966059,
+          -0.0232697129,
+          0.0035065033,
+          0.9885623
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_466.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.381332,
+                "y": 1.898237,
+                "z": 48.223835
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": 0.004704678,
+                "y": 0.9806585,
+                "z": -0.190710083,
+                "w": -0.04377853
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_466.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 652.0,
+              "y": 86.0,
+              "width": 244.0,
+              "height": 355.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7217720-c381-41ab-a227-6df3b109c3d0",
+      "sequence_id": "3fa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          56.0187378,
+          7.47789,
+          27.5031624
+        ],
+        "rotation": [
+          0.0717816055,
+          0.137857333,
+          -0.0100178691,
+          0.9877968
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_467.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_467.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 341.0,
+              "y": 0.0,
+              "width": 361.0,
+              "height": 587.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.52276886,
+                "y": 1.6359452,
+                "z": 23.9900551
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989665,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": 0.0206042714,
+                "y": 0.9167941,
+                "z": -0.08482362,
+                "w": -0.38970378
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ce768d0-8a51-4913-a568-3e0b72ffa87e",
+      "sequence_id": "40a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          51.4439774,
+          6.222945,
+          48.7875862
+        ],
+        "rotation": [
+          0.088781856,
+          0.5133924,
+          -0.0535057075,
+          0.8518704
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_468.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 175.0,
+              "y": 0.0,
+              "width": 999.0,
+              "height": 720.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_468.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.233052984,
+                "y": 1.74334848,
+                "z": 11.1847
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989666,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": 0.000395260868,
+                "y": 0.9899358,
+                "z": -0.141389847,
+                "w": -0.00599629525
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ca117bd-23ad-4ea5-9170-8474b9def1b2",
+      "sequence_id": "41a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          75.29996,
+          13.0910215,
+          9.159458
+        ],
+        "rotation": [
+          0.101102069,
+          -0.119332887,
+          0.0122160651,
+          0.9876178
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_469.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -0.09899305,
+                "y": 3.093844,
+                "z": 51.8169136
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989665,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": -0.0609954074,
+                "y": 0.8736741,
+                "z": -0.067486234,
+                "w": 0.477931827
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 556.0,
+              "y": 55.0,
+              "width": 144.0,
+              "height": 365.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_469.png"
+        }
+      ]
+    },
+    {
+      "id": "835d64a8-670d-475e-a140-aab73dec9039",
+      "sequence_id": "42a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          38.3719635,
+          9.851718,
+          12.6826553
+        ],
+        "rotation": [
+          0.0635689,
+          0.2660015,
+          -0.0175825953,
+          0.9617136
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_470.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.83055282,
+                "y": 2.21511817,
+                "z": 48.76257
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989666,
+                "z": 1.6832732
+              },
+              "rotation": {
+                "x": 0.0293441731,
+                "y": 0.8317756,
+                "z": -0.06563546,
+                "w": -0.550436437
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 717.0,
+              "y": 71.0,
+              "width": 137.0,
+              "height": 378.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_470.png"
+        }
+      ]
+    },
+    {
+      "id": "22b23c4d-c0ea-42e4-b71d-6f5fb5c5f19a",
+      "sequence_id": "43a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          29.8040428,
+          11.6358919,
+          8.906532
+        ],
+        "rotation": [
+          0.06860304,
+          0.31071353,
+          -0.022490859,
+          0.94775784
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_471.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.28362966,
+                "y": 2.11643267,
+                "z": 56.2500839
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989665,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": -0.0252725,
+                "y": 0.9143929,
+                "z": -0.07420129,
+                "w": 0.3971664
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_471.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 432.0,
+              "y": 113.0,
+              "width": 168.0,
+              "height": 329.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a634a04-ad34-4ed2-afd7-74398fcf226f",
+      "sequence_id": "44a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          56.596,
+          6.3330164,
+          49.0569534
+        ],
+        "rotation": [
+          0.139482856,
+          0.41181922,
+          -0.06394821,
+          0.8982539
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_472.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 683.0,
+              "y": 0.0,
+              "width": 597.0,
+              "height": 455.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.39170337,
+                "y": 3.35759783,
+                "z": 12.8720942
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.153678983,
+                "y": 0.0035414095,
+                "z": -0.0005490429,
+                "w": 0.988114357
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_472.png"
+        }
+      ]
+    },
+    {
+      "id": "ab5c0694-bfde-40cc-8965-d6ff3d9241c1",
+      "sequence_id": "45a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          62.9444351,
+          4.61653566,
+          42.93792
+        ],
+        "rotation": [
+          0.05475295,
+          0.0405840538,
+          -0.00222728052,
+          0.9976724
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_473.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.45875371,
+                "y": 2.6908195,
+                "z": 15.1877842
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.0453384072,
+                "y": 0.5305054,
+                "z": -0.02979663,
+                "w": 0.8459437
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 337.0,
+              "y": 0.0,
+              "width": 378.0,
+              "height": 623.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_473.png"
+        }
+      ]
+    },
+    {
+      "id": "faf1e17f-7a27-4a92-9120-079a46db040f",
+      "sequence_id": "46a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          77.62691,
+          11.42704,
+          0.968349457
+        ],
+        "rotation": [
+          0.07181975,
+          -0.122367658,
+          0.008878594,
+          0.9898431
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_474.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -0.3775847,
+                "y": 2.71923,
+                "z": 58.82828
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989665,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": -0.05675849,
+                "y": 0.7592502,
+                "z": -0.04358173,
+                "w": 0.6468526
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 588.0,
+              "y": 104.0,
+              "width": 69.0,
+              "height": 318.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_474.png"
+        }
+      ]
+    },
+    {
+      "id": "05afd73f-6c5f-4cf1-83db-c10035d97fb3",
+      "sequence_id": "47a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          61.2532578,
+          4.533143,
+          37.2437134
+        ],
+        "rotation": [
+          0.03506065,
+          0.07388188,
+          -0.00259906077,
+          0.9966471
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_475.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.7002902,
+                "y": 2.41012573,
+                "z": 18.7100258
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989666,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": -0.0362876467,
+                "y": 0.78296864,
+                "z": -0.009359986,
+                "w": 0.6209313
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_475.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 812.0,
+              "y": 0.0,
+              "width": 205.0,
+              "height": 594.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "962d04ff-ba75-450e-8c56-0b2ce82cda59",
+      "sequence_id": "48a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          24.5471039,
+          11.8391838,
+          37.3450546
+        ],
+        "rotation": [
+          0.08226539,
+          0.53756243,
+          -0.0528008752,
+          0.8375387
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_476.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.63469577,
+                "y": 2.125574,
+                "z": 42.63143
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989666,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": -0.0458221175,
+                "y": 0.849221945,
+                "z": -0.09171784,
+                "w": 0.5179868
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_476.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 665.0,
+              "y": 32.0,
+              "width": 144.0,
+              "height": 444.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "980cc4ef-38d2-4baf-8aee-96d9c48961eb",
+      "sequence_id": "49a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          20.3247261,
+          21.3753052,
+          28.2769623
+        ],
+        "rotation": [
+          0.147582591,
+          0.478867829,
+          -0.0820347,
+          0.861496031
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_477.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_477.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.41907144,
+                "y": 1.6462338,
+                "z": 51.9780731
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.180019915,
+                "y": 0.07640612,
+                "z": -0.0121554965,
+                "w": 0.980615735
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 618.0,
+              "y": 115.0,
+              "width": 224.0,
+              "height": 338.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "702a8a96-2495-49b1-924b-1252e841b0c5",
+      "sequence_id": "4aa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          80.2502441,
+          10.7006016,
+          24.30429
+        ],
+        "rotation": [
+          0.101486608,
+          -0.237639159,
+          0.0249734167,
+          0.965714455
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_478.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.80626714,
+                "y": 1.5714258,
+                "z": 31.8118019
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989666,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": -0.0253190864,
+                "y": 0.9262476,
+                "z": -0.1285376,
+                "w": 0.3534154
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_478.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 574.0,
+              "y": 0.0,
+              "width": 288.0,
+              "height": 542.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b70b8cc3-762c-4fb7-b795-3ef762bc02e6",
+      "sequence_id": "4ba1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          49.66203,
+          10.56803,
+          27.9202137
+        ],
+        "rotation": [
+          0.112567626,
+          0.2359864,
+          -0.027532991,
+          0.9648217
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_479.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.510573,
+                "y": 2.0546484,
+                "z": 30.1626434
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.0288729426,
+                "y": 0.9233491,
+                "z": -0.140847564,
+                "w": -0.3560264
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 278.0,
+              "y": 0.0,
+              "width": 292.0,
+              "height": 510.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_479.png"
+        }
+      ]
+    },
+    {
+      "id": "c67421a0-3cae-475f-a6a8-6421bec7ec9c",
+      "sequence_id": "4ca1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          12.4764557,
+          16.6087265,
+          28.0713539
+        ],
+        "rotation": [
+          0.09640376,
+          0.5120634,
+          -0.0579705834,
+          0.8515497
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_480.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 551.0,
+              "y": 105.0,
+              "width": 185.0,
+              "height": 280.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.107768558,
+                "y": 3.383232,
+                "z": 63.86317
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989666,
+                "z": 1.68327308
+              },
+              "rotation": {
+                "x": -0.00188392622,
+                "y": 0.9925585,
+                "z": -0.12042772,
+                "w": 0.0179245
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_480.png"
+        }
+      ]
+    },
+    {
+      "id": "79fb6c34-c5fa-46b3-b258-9496174cfd4e",
+      "sequence_id": "4da1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          46.3600845,
+          9.264424,
+          42.1181564
+        ],
+        "rotation": [
+          0.1190146,
+          0.441925,
+          -0.0592864044,
+          0.887143135
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_481.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_481.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 353.0,
+              "y": 0.0,
+              "width": 429.0,
+              "height": 529.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -1.20139825,
+                "y": 2.55839157,
+                "z": 23.1563549
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989666,
+                "z": 1.6832732
+              },
+              "rotation": {
+                "x": -0.126715511,
+                "y": 0.282395273,
+                "z": -0.03810733,
+                "w": 0.9501284
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c253ef19-f46f-4152-a60b-0c3d4f5a0db6",
+      "sequence_id": "4ea1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          88.6030045,
+          18.1226768,
+          12.4129639
+        ],
+        "rotation": [
+          0.140480161,
+          -0.2546029,
+          0.0374106243,
+          0.956056058
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_482.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.43021,
+                "y": 0.7734676,
+                "z": 46.06916
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989667,
+                "z": 1.68327308
+              },
+              "rotation": {
+                "x": 0.118659526,
+                "y": 0.769933939,
+                "z": -0.0797795,
+                "w": -0.6218978
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 593.0,
+              "y": 118.0,
+              "width": 89.0,
+              "height": 414.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_482.png"
+        }
+      ]
+    },
+    {
+      "id": "0f83dcb8-8aff-4b34-840e-304acf162dbf",
+      "sequence_id": "4fa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          46.80117,
+          9.0651,
+          23.969902
+        ],
+        "rotation": [
+          0.07804129,
+          0.24646394,
+          -0.0199154876,
+          0.9657994
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_483.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_483.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 269.0,
+              "y": 0.0,
+              "width": 313.0,
+              "height": 429.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -4.29917669,
+                "y": 2.772309,
+                "z": 38.45446
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.6832732
+              },
+              "rotation": {
+                "x": -0.05529443,
+                "y": -0.0885060653,
+                "z": 0.009391527,
+                "w": 0.9944954
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c9f7d0c-0da7-4524-a6dd-0f40bf1df1ba",
+      "sequence_id": "50a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          14.4405823,
+          12.1675138,
+          34.2312775
+        ],
+        "rotation": [
+          0.068475,
+          0.5490176,
+          -0.04519735,
+          0.8317741
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_484.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_484.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 384.0,
+              "y": 93.0,
+              "width": 196.0,
+              "height": 319.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -4.581366,
+                "y": 2.66783333,
+                "z": 56.0751343
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989665,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": 0.0134909432,
+                "y": 0.974339962,
+                "z": -0.0957864,
+                "w": -0.20323585
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "704448a6-40c1-4bf4-bf9d-b4227d5ee141",
+      "sequence_id": "51a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          17.3372574,
+          7.264414,
+          35.9532967
+        ],
+        "rotation": [
+          0.0330687724,
+          0.5541058,
+          -0.0220368728,
+          0.8314972
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_485.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 636.0,
+              "y": 74.0,
+              "width": 238.0,
+              "height": 359.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.98394918,
+                "y": 2.35337424,
+                "z": 50.150444
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.01680561,
+                "y": 0.06555382,
+                "z": -0.004112701,
+                "w": 0.997699
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_485.png"
+        }
+      ]
+    },
+    {
+      "id": "073b7433-c24f-411f-bf73-6e0077fdb29c",
+      "sequence_id": "52a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          15.5702477,
+          14.8442984,
+          30.8034153
+        ],
+        "rotation": [
+          0.0895934552,
+          0.5200164,
+          -0.05496286,
+          0.8476645
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_486.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -4.036881,
+                "y": 1.96020544,
+                "z": 53.25374
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989667,
+                "z": 1.6832732
+              },
+              "rotation": {
+                "x": -0.07359071,
+                "y": 0.7400785,
+                "z": -0.07446566,
+                "w": 0.6643215
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_486.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 447.0,
+              "y": 105.0,
+              "width": 78.0,
+              "height": 357.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "984cba5d-05bb-4d78-95f7-c2c8910e12c6",
+      "sequence_id": "53a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          81.47629,
+          7.477536,
+          34.86094
+        ],
+        "rotation": [
+          0.07297895,
+          -0.344729662,
+          0.0268933177,
+          0.9354744
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_487.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_487.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 869.0,
+              "y": 0.0,
+              "width": 122.0,
+              "height": 521.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.97771263,
+                "y": 2.37624145,
+                "z": 27.0853367
+              },
+              "size": {
+                "x": 6.16992235,
+                "y": 9.989665,
+                "z": 1.68327415
+              },
+              "rotation": {
+                "x": 0.0326417871,
+                "y": 0.679989636,
+                "z": -0.07574731,
+                "w": -0.728567839
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cf12829-0dc2-410a-9841-73d3b8e500b2",
+      "sequence_id": "54a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          88.0913849,
+          14.9789076,
+          21.1204758
+        ],
+        "rotation": [
+          0.129740432,
+          -0.2990951,
+          0.0410862938,
+          0.9444689
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_488.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.27927423,
+                "y": 1.98647439,
+                "z": 41.7667465
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989666,
+                "z": 1.68327355
+              },
+              "rotation": {
+                "x": -0.0627110451,
+                "y": 0.8624872,
+                "z": -0.12572521,
+                "w": 0.48618567
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 377.0,
+              "y": 33.0,
+              "width": 189.0,
+              "height": 455.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_488.png"
+        }
+      ]
+    },
+    {
+      "id": "743c1c9d-26fa-49ba-9ab0-7f1582fb4798",
+      "sequence_id": "55a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          50.5495834,
+          4.4164505,
+          38.0800247
+        ],
+        "rotation": [
+          0.0253822729,
+          0.323385715,
+          -0.00867785,
+          0.94588697
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_489.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.31233931,
+                "y": 2.23906517,
+                "z": 19.0727215
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.6832732
+              },
+              "rotation": {
+                "x": 0.0021739048,
+                "y": 0.991786242,
+                "z": -0.0356765278,
+                "w": -0.122811131
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 665.0,
+              "y": 0.0,
+              "width": 615.0,
+              "height": 555.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_489.png"
+        }
+      ]
+    },
+    {
+      "id": "d7461f2b-f610-4953-9af8-257fa3656984",
+      "sequence_id": "56a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          33.6062164,
+          15.440732,
+          39.2826767
+        ],
+        "rotation": [
+          0.145470023,
+          0.5078038,
+          -0.0874633342,
+          0.844585061
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_490.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 682.0,
+              "y": 0.0,
+              "width": 113.0,
+              "height": 577.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_490.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.08376312,
+                "y": 1.264371,
+                "z": 32.8960953
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.0934007242,
+                "y": 0.7451944,
+                "z": -0.148693785,
+                "w": 0.6433131
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9280b3c9-433b-45e8-8789-b62bfc72b1f3",
+      "sequence_id": "57a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          76.08338,
+          10.2228336,
+          38.3382339
+        ],
+        "rotation": [
+          0.152723342,
+          -0.300068229,
+          0.04873439,
+          0.9403508
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_491.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.71142173,
+                "y": 3.10357428,
+                "z": 23.8192787
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.136090249,
+                "y": 0.303283125,
+                "z": -0.0547075272,
+                "w": 0.9415444
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_491.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 724.0,
+              "y": 0.0,
+              "width": 446.0,
+              "height": 493.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbfbac89-ddd4-4d57-82fd-0b89bffa4737",
+      "sequence_id": "58a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          32.515213,
+          19.3566685,
+          33.9852142
+        ],
+        "rotation": [
+          0.1759296,
+          0.458146334,
+          -0.09303995,
+          0.8663107
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_492.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_492.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -3.53699613,
+                "y": 2.07073617,
+                "z": 40.0799141
+              },
+              "size": {
+                "x": 6.169919,
+                "y": 9.989665,
+                "z": 1.683273
+              },
+              "rotation": {
+                "x": -0.0198743921,
+                "y": 0.9722892,
+                "z": -0.208585352,
+                "w": 0.103685796
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 329.0,
+              "y": 21.0,
+              "width": 286.0,
+              "height": 440.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ebde303-c1d8-42da-9c71-5da2544fad8d",
+      "sequence_id": "59a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          76.8032455,
+          14.37383,
+          26.9620438
+        ],
+        "rotation": [
+          0.166706353,
+          -0.207431391,
+          0.03589862,
+          0.9632718
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_493.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 752.0,
+              "y": 0.0,
+              "width": 305.0,
+              "height": 484.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 4.946255,
+                "y": 2.39353228,
+                "z": 32.73042
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989667,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": -0.0384600237,
+                "y": 0.951102853,
+                "z": -0.181271344,
+                "w": 0.247113258
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_493.png"
+        }
+      ]
+    },
+    {
+      "id": "812524ea-0570-428a-82df-bebe09f157c6",
+      "sequence_id": "5aa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          85.6686554,
+          15.159749,
+          10.6611519
+        ],
+        "rotation": [
+          0.11437878,
+          -0.222417533,
+          0.0262845755,
+          0.9678621
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_494.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 341.0,
+              "y": 80.0,
+              "width": 208.0,
+              "height": 370.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_494.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -5.23566151,
+                "y": 2.167489,
+                "z": 49.9321823
+              },
+              "size": {
+                "x": 6.16991949,
+                "y": 9.989665,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.09541386,
+                "y": 0.241106749,
+                "z": -0.0331738032,
+                "w": 0.965227067
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc526648-0cf1-47f0-807d-74f01e904406",
+      "sequence_id": "5ba1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          61.61948,
+          8.980969,
+          27.4607182
+        ],
+        "rotation": [
+          0.100726,
+          0.04156324,
+          -0.00421161344,
+          0.994036734
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_495.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_495.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 460.0,
+              "y": 0.0,
+              "width": 379.0,
+              "height": 596.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.5764888,
+                "y": 1.606279,
+                "z": 24.5553532
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.029868044,
+                "y": 0.928090632,
+                "z": -0.10994564,
+                "w": 0.35449633
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad47a9eb-e24a-4ca7-8d84-587e94d5ec55",
+      "sequence_id": "5ca1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          55.9219971,
+          16.5721149,
+          1.785923
+        ],
+        "rotation": [
+          0.119942687,
+          0.07379919,
+          -0.008941141,
+          0.9899937
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_496.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_496.png"
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.677152,
+                "y": 2.30829239,
+                "z": 55.2104034
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.105854556,
+                "y": 0.09383627,
+                "z": -0.01270729,
+                "w": 0.9898627
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 627.0,
+              "y": 102.0,
+              "width": 213.0,
+              "height": 329.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "853dc63e-cd45-4d44-b332-bd1bfe8e91b9",
+      "sequence_id": "5da1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          67.8571243,
+          17.8959312,
+          23.19664
+        ],
+        "rotation": [
+          0.21020861,
+          -0.05882931,
+          0.0126730837,
+          0.97580266
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_497.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 3.13421464,
+                "y": 0.608623743,
+                "z": 31.14884
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989667,
+                "z": 1.68327391
+              },
+              "rotation": {
+                "x": -0.108782806,
+                "y": 0.7748857,
+                "z": -0.191879883,
+                "w": 0.592368662
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 728.0,
+              "y": 17.0,
+              "width": 148.0,
+              "height": 617.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_497.png"
+        }
+      ]
+    },
+    {
+      "id": "d1abecbd-8548-4691-90ce-b61c9b4ec778",
+      "sequence_id": "5ea1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          17.7746964,
+          25.5122471,
+          31.870512
+        ],
+        "rotation": [
+          0.171827719,
+          0.5118007,
+          -0.105302453,
+          0.8351328
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_498.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 0.914743,
+                "y": 4.459625,
+                "z": 60.78818
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": -0.00323610613,
+                "y": 0.987031,
+                "z": -0.159975559,
+                "w": 0.0129348449
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_498.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 572.0,
+              "y": 58.0,
+              "width": 194.0,
+              "height": 292.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ea35738-e211-411e-94ed-1f8c084628e2",
+      "sequence_id": "5fa1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          70.89423,
+          9.804381,
+          40.4184952
+        ],
+        "rotation": [
+          0.183705449,
+          -0.2112134,
+          0.0404527858,
+          0.9591688
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_499.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 2.3582375,
+                "y": 2.60799575,
+                "z": 17.8704834
+              },
+              "size": {
+                "x": 6.1699214,
+                "y": 9.989666,
+                "z": 1.68327367
+              },
+              "rotation": {
+                "x": 0.173555657,
+                "y": 0.5289532,
+                "z": -0.0914968252,
+                "w": -0.8256606
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 748.0,
+              "y": 0.0,
+              "width": 273.0,
+              "height": 601.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_499.png"
+        }
+      ]
+    },
+    {
+      "id": "2f2e91a0-f7ec-475d-a28b-24008a02f8b0",
+      "sequence_id": "60a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          55.3325729,
+          5.481906,
+          20.5337982
+        ],
+        "rotation": [
+          0.0309344772,
+          0.120929793,
+          -0.00377041567,
+          0.992171764
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_500.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": 1.67654979,
+                "y": 2.38039732,
+                "z": 35.9022942
+              },
+              "size": {
+                "x": 6.169921,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": 0.05236523,
+                "y": 0.410887152,
+                "z": -0.00199995446,
+                "w": -0.910178959
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 611.0,
+              "y": 0.0,
+              "width": 237.0,
+              "height": 461.0
+            }
+          ]
+        },
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_500.png"
+        }
+      ]
+    },
+    {
+      "id": "8dc085af-c593-4698-94e0-1fc2d31b56d0",
+      "sequence_id": "61a1433f-7dad-4379-a26e-25bd77e601f1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "camera",
+        "ego_id": "ego",
+        "modality": "camera",
+        "translation": [
+          54.3808365,
+          4.126422,
+          45.0812149
+        ],
+        "rotation": [
+          0.0292578787,
+          0.365275025,
+          -0.0114870276,
+          0.930368841
+        ],
+        "camera_intrinsic": [
+          [
+            3.03497839,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.39551735,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ],
+        "projection": "perspective"
+      },
+      "ego": {
+        "ego_id": "ego",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGBb58bd9ec-b817-4f07-aabb-45de74c62079/rgb_501.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "semantic segmentation",
+          "annotation_definition": "semantic segmentation",
+          "filename": "SemanticSegmentation3ce8c5d7-8442-44c7-a0ca-dbee681a7263/segmentation_501.png"
+        },
+        {
+          "id": "bounding box",
+          "annotation_definition": "bounding box",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "x": 0.0,
+              "y": 0.0,
+              "width": 1024.0,
+              "height": 714.0
+            }
+          ]
+        },
+        {
+          "id": "bounding box 3D",
+          "annotation_definition": "bounding box 3D",
+          "values": [
+            {
+              "label_id": 6,
+              "label_name": "Sailboat",
+              "instance_id": 6,
+              "translation": {
+                "x": -0.70102334,
+                "y": 2.17355847,
+                "z": 10.8158455
+              },
+              "size": {
+                "x": 6.16992,
+                "y": 9.989666,
+                "z": 1.68327332
+              },
+              "rotation": {
+                "x": -0.06573806,
+                "y": -0.1603142,
+                "z": -0.000605076144,
+                "w": 0.984874368
+              },
+              "velocity": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "acceleration": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
